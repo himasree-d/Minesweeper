@@ -93,9 +93,20 @@ minesweeper/
 
 ## Screenshots
 
-> *(Add your own screenshots here after running the game)*  
-> Tip: On Mac use `Cmd + Shift + 4` to capture a window.
+ 
+> *Intermediate Level*
 > <img width="556" height="659" alt="image" src="https://github.com/user-attachments/assets/341cf9b6-a77f-499a-bd22-d036f0f98888" />
+> *Beginner Level*
+> <img width="290" height="389" alt="image" src="https://github.com/user-attachments/assets/9bb87ef4-810a-4237-9498-2fe0b04ad70e" />
+> *Expert Level*
+> <img width="1010" height="651" alt="image" src="https://github.com/user-attachments/assets/e038f6d9-7fc2-489b-8f36-f0c5d1bed86f" />
+> *Pastel Theme*
+> <img width="555" height="653" alt="image" src="https://github.com/user-attachments/assets/88fef23c-b85e-4636-941b-ddd008326cb3" />
+> *Dark Theme*
+> <img width="552" height="652" alt="image" src="https://github.com/user-attachments/assets/9fda2afb-d953-4b66-87b7-706b52b344d2" />
+
+
+
 
 
 ---
