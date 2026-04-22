@@ -9,22 +9,7 @@ import javax.swing.*;
 import javax.swing.border.*;
 import javax.swing.Timer;
 
-/**
- * Minesweeper — Enhanced Edition
- *
- * Features:
- *  - Difficulty levels: Beginner (8×8 / 10 mines), Intermediate (16×16 / 40 mines), Expert (30×16 / 99 mines)
- *  - Game timer with persistent best-time tracking (Java Preferences API)
- *  - Synthesised sound effects: click, flag, explosion, win fanfare
- *  - Three color themes: Classic, Dark, Pastel
- *  - Hint system (safe-cell highlight)
- *  - Save / Load (serialized game state)
- *  - Left-click  → reveal cell
- *  - Right-click → cycle flag → question-mark → unmarked
- *  - Middle-click / chord → auto-reveal neighbours when flag count matches number
- *
- * @author  Enhanced by Claude
- */
+
 enum CellState { CLOSED, OPEN, MINE_HIT, MINE_REVEALED, WRONG_FLAG }
 
 public class Minesweeper extends JFrame {
